@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&animation=twinkling" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=45FFCA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" />
 </div>
@@ -30,5 +30,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raihan5960label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=raihan5960&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </div>
