@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&animation=twinkling" />
 
