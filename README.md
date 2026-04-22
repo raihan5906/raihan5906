@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohammed+Raihan+Shariff&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Mohammed+Raihan%20Shariff&fontSize=50&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFCA&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Specialist;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;System+Level+Programmer;Future+Architect" />
 </div>
 
 ---
@@ -34,5 +34,5 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raihan5906&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=raihan5906&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge&logo=github" />
 </div>
