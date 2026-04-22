@@ -29,7 +29,7 @@
 ---
 ### 🐍 Contribution Animation (The Sliding Effect)
 <div align="center">
-  <img src="https://github.com/raihan5906/raihan5906/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/raihan5906/raihan5906/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
