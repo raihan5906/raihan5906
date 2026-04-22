@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&animation=twinkling" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=45FFCA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" />
 </div>
@@ -16,7 +16,7 @@
 ### 📊 GitHub Power Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raihan5906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan5906&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### 📈 Contribution Activity Graph
@@ -32,5 +32,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=raihan5960label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </div>
