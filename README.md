@@ -1,34 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&animation=twinkling" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=45FFCA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohammed+Raihan+Shariff&fontSize=50&animation=fadeIn" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFCA&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Specialist;Open+Source+Contributor" />
 </div>
 
 ---
+### 🔭 About Me
 
-### 🏆 Achievement Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raihan5906&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-</div>
+- 🎓 **Academic Journey:** 2nd Year Computer Science student dedicated to mastering the fundamentals of engineering.
+- 🏗️ **Core Focus:** Deep-diving into **Data Structures & Algorithms (DSA)** and **Computer Science Essentials** (OS, DBMS, Computer Architecture).
+- 🚀 **Current Exploration:** Transitioning theoretical knowledge into practice by building systems-level projects and exploring **Backend Architecture**.
+- 💡 **Problem Solver:** Actively solving challenges on platforms like LeetCode/Codeforces to refine my algorithmic thinking.
+- 🧪 **Technical Philosophy:** I believe that frameworks change, but strong fundamentals are forever. I focus on writing **efficient, optimized, and well-documented code.**
 
-### 📊 GitHub Power Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raihan5906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan5906&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-### 📈 Contribution Activity Graph
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihan5906&theme=tokyonight&bg_color=00000000&hide_border=true" />
-</div>
-
-### 🛠️ Skills & Tools
+---
+### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,py,aws,docker,git,linux,tailwind,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,py,aws,docker,git,linux,tailwind,figma" />
 </p>
 
 ---
-
+### 📈 My GitHub Journey
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raihan5960&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raihan5906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan5906&layout=compact&theme=tokyonight&border_radius=10"/>
+</div>
+
+---
+### 🐍 Contribution Animation (The Sliding Effect)
+<div align="center">
+  <img src="https://github.com/raihan5906/raihan5906/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=raihan5906&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </div>
