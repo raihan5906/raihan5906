@@ -7,7 +7,7 @@
 ---
 ### 🔭 About Me
 
-- 🎓 **Academic Journey:** 2nd Year Computer Science student dedicated to mastering the fundamentals of engineering.
+- 🎓 **Academic Journey:** 3rd Year Computer Science student dedicated to mastering the fundamentals of engineering.
 - 🏗️ **Core Focus:** Deep-diving into **Data Structures & Algorithms (DSA)** and **Computer Science Essentials** (OS, DBMS, Computer Architecture).
 - 🚀 **Current Exploration:** Transitioning theoretical knowledge into practice by building systems-level projects and exploring **Backend Architecture**.
 - 💡 **Problem Solver:** Actively solving challenges on platforms like LeetCode/Codeforces to refine my algorithmic thinking.
